@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Zekai's Playground
+  name: zekai-playground
   annotations:
     github.com/project-slug: zekai-rai/roadie-sample-service
     backstage.io/techdocs-ref: url:https://github.com/zekai-rai/roadie-sample-service/tree/master
