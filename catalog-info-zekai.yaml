@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: roadie-sample-service
+  name: Zekai's Playground
   annotations:
     github.com/project-slug: zekai-rai/roadie-sample-service
     backstage.io/techdocs-ref: url:https://github.com/zekai-rai/roadie-sample-service/tree/master
     qameta.io/allure-project: asdf
 spec:
-  type: other
-  lifecycle: Test
+  type: Service
+  lifecycle: Prototype
   owner: zekai-rai
