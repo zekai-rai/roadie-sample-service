@@ -4,6 +4,8 @@ metadata:
   name: roadie-sample-service
   annotations:
     github.com/project-slug: zekai-rai/roadie-sample-service
+    backstage.io/techdocs-ref: url:https://github.com/zekai-rai/roadie-sample-service/tree/orphan-branch-docs
+    qameta.io/allure-project: asdf
 spec:
   type: other
   lifecycle: unknown
