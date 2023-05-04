@@ -8,5 +8,5 @@ metadata:
     qameta.io/allure-project: asdf
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: Test
   owner: zekai-rai
