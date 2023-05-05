@@ -5,6 +5,7 @@ edit_uri: edit/main/docs
 nav:
   - Home: index.md
   - Local development: local-development.md
+  - Zekai Test Doc: TestNewDocFromZekai.md
   - Feature Testing: feature-testing.md
   - TestDoc: test-doc.md
   - Embedded Lucid Chart: testing-lucid.md
